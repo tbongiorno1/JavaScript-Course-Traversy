@@ -2,11 +2,11 @@
 
 // console.log(document.getElementById('task-title'));
 
-// // Get things from the element
+// // // Get things from the element
 // console.log(document.getElementById('task-title').id);
 // console.log(document.getElementById('task-title').className);
 
-// const taskTitle = document.getElementById('task-title');
+const taskTitle = document.getElementById('task-title');
 
 // // Change styling
 // taskTitle.style.background = '#333';
